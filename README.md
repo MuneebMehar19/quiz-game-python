@@ -20,6 +20,6 @@ This is a simple command-line based quiz game written in Python. The player answ
 1. Make sure Python is installed (version 3.x).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-game-python.git
+   git clone https://github.com/MuneebMehar/quiz-game-python.git
    cd quiz-game-python
 
